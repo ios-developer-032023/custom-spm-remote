@@ -1,0 +1,8 @@
+{
+  "registries" : {
+    "[default]" : {
+      "url" : "http://localhost:8081/artifactory/api/swift/custom-spm-remote"
+    }
+  },
+  "version" : 1
+}
